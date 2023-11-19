@@ -1,4 +1,5 @@
 import React from 'react';
+// eslint-disable-next-line to the line before.
 import logo from '../logo.svg';
 import '../Styles/App.css';
 import NavigationBar from './NavigationBar.js'
